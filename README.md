@@ -5,6 +5,10 @@
 [![LangChain](https://img.shields.io/badge/LangChain-Latest-green.svg)](https://langchain.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## 👥 Authors & Collaborators
+- **Ahtesham Shah**
+- **Saif** (Partner)
+
 ## 📋 Project Overview
 
 This project demonstrates the implementation of two production-ready **Retrieval Augmented Generation (RAG)** systems using state-of-the-art technologies including LangChain, FAISS vector store, and Google's Gemini API. The systems showcase advanced document retrieval, semantic search, and AI-powered question answering capabilities.
